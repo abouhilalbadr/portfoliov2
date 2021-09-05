@@ -14,7 +14,7 @@ const Project = ({ project, ...extra }) => {
   return (
     <div className="w-full lg:w-1/3" { ...extra }>
       <div className="bg-white m-3 rounded-xl border border-gray px-10 py-8 text-center flex flex-col items-center">
-        <h4 className="text-2xl font-bold mb-4">{ project.title }</h4>
+        <h3 className="text-2xl font-bold mb-4">{ project.title }</h3>
         <p className="font-light mb-4">{ project.desc }</p>
         {button}
       </div>

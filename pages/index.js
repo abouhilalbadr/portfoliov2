@@ -15,6 +15,7 @@ export default function Home() {
     <>
       <Head>
         <title>Abouhilal Badr | Desinger, Full-stack Developer</title>
+        <meta name="description" content="Desinger, Full-stack Developer"></meta>
         <link rel="icon" href="/favicon.ico" />
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="true" />
