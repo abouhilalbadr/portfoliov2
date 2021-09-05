@@ -11,7 +11,7 @@
 ⚡️ Easy customization\
 ⚡️ Well organized
 
-To view a live example, **[click here](https://badrabouhilal.com/)**\
+To view a live example, **[click here](https://badrabouhilal.com/)**
 
 ## Author
 
