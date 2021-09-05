@@ -1,6 +1,6 @@
 # My personal potfolio ⚡️
 
-##This is the Version 2 of my personal portfolio, a clean, beautiful and responsive portfolio.
+## This is the Version 2 of my personal portfolio, a clean, beautiful and responsive portfolio.
 
 ## Features
 
