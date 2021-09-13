@@ -8,7 +8,7 @@ const Skills = () => {
     {
       img: iconDesigner,
       title: "Designer",
-      desc: "I love to work in UX & UI designing and try my best to make the best UX with good UI.",
+      desc: "I love to work in UI & UX designing and try my best to make the best UI with good UX.",
       more: {
         title: "Things I enjoy designing:",
         languages: ["UX", "UI", "Web Apps", "Mobile Apps", "Desktop Apps"]
@@ -21,14 +21,14 @@ const Skills = () => {
     {
       img: iconFront,
       title: "Front-end Developer",
-      desc: "Take my design and make it alive is one of the happiest thing that front-end development give me.",
+      desc: "Take my design and make it alive is one of the happiest things that front-end development give me.",
       more: {
         title: "Languages & Frameworks:",
         languages: ["HTML", "CSS", "JavaScript", "TypeScript", "JQuery", "VueJS", "ReactJS", "Sass", "PostCSS", "Pug", "JSX"]
       },
       tools: {
         title: "Front-end Tools:",
-        tools:["VSCode", "Github", "Gitlab", "Bitbucket", "Codepen", "Terminal", "TailwindCSS", "Bootsrap"]
+        tools:["VSCode", "Github", "Gitlab", "Bitbucket", "Codepen", "Terminal", "TailwindCSS", "Bootstrap"]
       }
     },
     {
@@ -37,7 +37,7 @@ const Skills = () => {
       desc: "Architect websites, secure it and make connection with databases it's like making tactical war strategies.",
       more: {
         title: "Languages & Frameworks:",
-        languages: ["NodeJS", "Paython", "PHP", "Express", "Django", "Laravel", "Wordpress", "MySQL", "PostgresQL", "MongoDB"]
+        languages: ["NodeJS", "Python", "PHP", "ExpressJS", "Django", "Laravel", "Wordpress", "MySQL", "PostgreSQL", "MongoDB"]
       },
       tools: {
         title: "Back-end Tools:",
