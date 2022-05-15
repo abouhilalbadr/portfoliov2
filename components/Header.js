@@ -1,7 +1,7 @@
 import Nav from "./helpers/Nav";
 import Hero from "./helpers/Hero";
 
-import UseDarkMode from "./helpers/UseDarkmode";
+import UseDarkMode from "./helpers/UseDarkMode";
 
 const Header = ({ page, header, hero }) => {
     const [colorTheme, setTheme] = UseDarkMode();
