@@ -1,15 +1,14 @@
 body {
-  font-family: 'Roboto', sans-serif;
-  color: #141c3a;
+  @apply font-roboto text-black dark:text-white dark:bg-dark-bgColor;
 }
 body::-webkit-scrollbar {
   width: 10px;
 }
- 
+
 body::-webkit-scrollbar-track {
   box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
 }
- 
+
 body::-webkit-scrollbar-thumb {
   background-color: #1431ae;
 }
@@ -21,14 +20,10 @@ body::-webkit-scrollbar-thumb {
 select {
   -webkit-appearance: none;
   -moz-appearance: none;
-  background-image:
-    linear-gradient(45deg, transparent 50%, #1431ae 50%),
+  background-image: linear-gradient(45deg, transparent 50%, #1431ae 50%),
     linear-gradient(135deg, #1431ae 50%, transparent 50%);
-  background-position:
-    calc(100% - 20px) calc(1em + 12px),
+  background-position: calc(100% - 20px) calc(1em + 12px),
     calc(100% - 15px) calc(1em + 12px);
-  background-size:
-    5px 5px,
-    5px 5px;
+  background-size: 5px 5px, 5px 5px;
   background-repeat: no-repeat;
 }
