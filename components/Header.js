@@ -8,7 +8,7 @@ const Header = ({ page, header, hero }) => {
     return (
         <header
             className={
-                page === "form" ? "border-b-2 border-gray" : "pt-4 lg:pt-6"
+                page === "form" ? "border-b-2 border-gray" : "pt-4 lg:pt-6 px-2"
             }
         >
             <div className="container">
