@@ -19,10 +19,12 @@ module.exports = {
         },
         container: {
             center: true,
-            default: "1rem",
-            sm: "2rem",
-            lg: "3rem",
-            xl: "4rem",
+            padding: {
+                default: "1rem",
+                sm: "2rem",
+                lg: "3rem",
+                xl: "4rem",
+            }
         },
         fontFamily: {
             roboto: ["Roboto", "sans-serif"],
