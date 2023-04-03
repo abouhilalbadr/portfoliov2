@@ -45,7 +45,7 @@ const Nav = ({ page, header, colorTheme, setTheme }) => {
                     )}
                     <a
                         target="_blank"
-                        className="font-light hover:text-mainColor text-black dark:text-white"
+                        className="hidden lg:inline-block font-light hover:text-mainColor text-black dark:text-white"
                         href={`mailto:${header.email.address}`}
                     >
                         {header.email.text}
